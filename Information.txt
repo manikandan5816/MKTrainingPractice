@@ -13,3 +13,5 @@
 
 7.This is my third squash commit via merge
 
+8.Merge conflict check
+
