@@ -1,1 +1,8 @@
 1.This is my initial commit
+
+
+2.This is my first squash commit via interactive rebase
+
+3.This is my second squash commit via interactive rebase
+
+4.This is my third squash commit via interactive rebase
